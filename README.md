@@ -8,9 +8,11 @@ By default, Powershell-Smuggler will just execute `Invoke-Mimikatz`, a common co
 
 # Examples
 Bypassing AMSI for the Invoke-Mimikatz command:
+
 <img width="974" height="420" alt="AMSI_bypass" src="https://github.com/user-attachments/assets/aac9982a-ed78-4db2-8092-700e896d63ab" />
 
 Hiding the real command that will be executed:
+
 <img width="975" height="372" alt="Hiding_real_command" src="https://github.com/user-attachments/assets/fa91b731-01c0-4dcc-ba3b-877fb5895730" />
 
 More information about the scriptblock smuggling technique can be found here:
